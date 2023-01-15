@@ -1,0 +1,4 @@
+res://scenes/Main.tscn
+res://scripts/ColorRetriever.cs
+res://Properties/AssemblyInfo.cs
+res://scripts/main.gd

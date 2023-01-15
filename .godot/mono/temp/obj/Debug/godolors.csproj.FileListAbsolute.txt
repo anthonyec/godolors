@@ -1,0 +1,17 @@
+/Users/anthony/workspace/open_source/godolors/.godot/mono/temp/obj/Debug/godolors.csproj.AssemblyReference.cache
+/Users/anthony/workspace/open_source/godolors/.godot/mono/temp/obj/Debug/godolors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anthony/workspace/open_source/godolors/.godot/mono/temp/obj/Debug/godolors.AssemblyInfoInputs.cache
+/Users/anthony/workspace/open_source/godolors/.godot/mono/temp/obj/Debug/godolors.AssemblyInfo.cs
+/Users/anthony/workspace/open_source/godolors/.godot/mono/temp/obj/Debug/godolors.csproj.CoreCompileInputs.cache
+/Users/anthony/workspace/open_source/godolors/.godot/mono/temp/bin/Debug/godolors.deps.json
+/Users/anthony/workspace/open_source/godolors/.godot/mono/temp/bin/Debug/godolors.runtimeconfig.json
+/Users/anthony/workspace/open_source/godolors/.godot/mono/temp/bin/Debug/godolors.dll
+/Users/anthony/workspace/open_source/godolors/.godot/mono/temp/bin/Debug/godolors.pdb
+/Users/anthony/workspace/open_source/godolors/.godot/mono/temp/bin/Debug/GodotSharp.dll
+/Users/anthony/workspace/open_source/godolors/.godot/mono/temp/bin/Debug/GodotSharpEditor.dll
+/Users/anthony/workspace/open_source/godolors/.godot/mono/temp/obj/Debug/godolors.csproj.CopyComplete
+/Users/anthony/workspace/open_source/godolors/.godot/mono/temp/obj/Debug/godolors.dll
+/Users/anthony/workspace/open_source/godolors/.godot/mono/temp/obj/Debug/refint/godolors.dll
+/Users/anthony/workspace/open_source/godolors/.godot/mono/temp/obj/Debug/godolors.pdb
+/Users/anthony/workspace/open_source/godolors/.godot/mono/temp/obj/Debug/godolors.genruntimeconfig.cache
+/Users/anthony/workspace/open_source/godolors/.godot/mono/temp/obj/Debug/ref/godolors.dll

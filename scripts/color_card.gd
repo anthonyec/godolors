@@ -1,8 +1,8 @@
 extends CenterContainer
 class_name ColorCard
 
-onready var rect: ColorRect = $ColorRect
-onready var label: Label = $Label
+@onready var rect: ColorRect = $ColorRect
+@onready var label: Label = $Label
 
 func set_color(color: Color) -> void:
   if color == null: return
@@ -17,5 +17,5 @@ func set_text(msg: String) -> void:
 
 func set_card_size(width: int, height: int) -> void:
   var size: Vector2 = Vector2(width, height)
-  rect_min_size = size
-  rect.rect_min_size = size
+#  minimum_size = size
+  rect.minimum_size = size

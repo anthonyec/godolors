@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OKbyGEi05jE6o1/2EB4q0O0lA8pv1WYQ7cK7yBgdB/364nXvQDTJk3/AZPoNFTS3pM1E22Gbwa/VLAp9+tRGdw==",
+  "success": true,
+  "projectFilePath": "/Users/anthony/workspace/open_source/godolors/godolors.csproj",
+  "expectedPackageFiles": [
+    "/Users/anthony/Library/Application Support/Godot/mono/GodotNuGetFallbackFolder/godot.sourcegenerators/4.0.0-beta.12/godot.sourcegenerators.4.0.0-beta.12.nupkg.sha512",
+    "/Users/anthony/Library/Application Support/Godot/mono/GodotNuGetFallbackFolder/godotsharp/4.0.0-beta.12/godotsharp.4.0.0-beta.12.nupkg.sha512",
+    "/Users/anthony/Library/Application Support/Godot/mono/GodotNuGetFallbackFolder/godotsharpeditor/4.0.0-beta.12/godotsharpeditor.4.0.0-beta.12.nupkg.sha512"
+  ],
+  "logs": []
+}
